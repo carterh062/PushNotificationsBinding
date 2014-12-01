@@ -1,0 +1,4 @@
+com.parse.ParseQuery$CachePolicy:Com.Parse:ParseQuery.CachePolicy
+com.parse.PushService$ServiceState:Com.Parse:PushService.ServiceState
+com.parse.entity.mime.HttpMultipartMode:Com.Parse.Entity.Mime:HttpMultipartMode
+com.parse.os.ParseAsyncTask$Status:Com.Parse.OS:ParseAsyncTask.Status

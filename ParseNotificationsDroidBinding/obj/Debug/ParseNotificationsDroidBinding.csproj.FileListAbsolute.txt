@@ -1,0 +1,6 @@
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Debug\ParseNotificationsDroidBinding.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Debug\ParseNotificationsDroidBinding.pdb
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Debug\Parse.Android.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Debug\Parse.Android.xml
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\obj\Debug\ParseNotificationsDroidBinding.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\obj\Debug\ParseNotificationsDroidBinding.pdb

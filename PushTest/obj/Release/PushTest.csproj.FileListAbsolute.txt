@@ -1,0 +1,16 @@
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\PushTest.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\PushTest.pdb
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\PushTest.PushTest.apk
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\PushTest.PushTest-Signed.apk
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\ParseNotificationsDroidBinding.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\ParseNotificationsDroidBinding.pdb
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\bin\Release\ParseNotificationsDroidBinding.dll.mdb
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\PushTest.csprojResolveAssemblyReference.cache
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\PushTest.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\PushTest.pdb
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\android\bin\PushTest.PushTest.apk
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\res\layout\main.xml
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\res\values\strings.xml
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\res\drawable\icon.png
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\R.cs.flag
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\PushTest\obj\Release\uploadflags.txt

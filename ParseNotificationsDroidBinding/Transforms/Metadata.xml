@@ -1,0 +1,44 @@
+﻿<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+  	<attr path="/api/package[@name='com.parse']/class[@name='ParseCallback']" name="visibility">public</attr>
+  	<attr path="/api/package[@name='com.parse.codec.net']/class[@name='RFC1522Codec']" name="visibility">public</attr>
+  	<attr path="/api/package[@name='com.parse.codec.binary']/class[@name='Base32']/method[@name='isInAlphabet']" name="visibility">protected</attr>
+  	<attr path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='put']" name="visibility">public</attr>
+  	<attr path="/api/package[@name='com.parse']/interface[@name='PushService.LifecycleListener']" name="visibility">public</attr>
+  	<attr
+        path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='values']"
+        name="managedReturn"
+>System.Collections.ICollection</attr>
+        <attr
+        path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='entrySet']"
+        name="managedReturn"
+>System.Collections.ICollection</attr>
+        <attr
+        path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='keySet']"
+        name="managedReturn"
+>System.Collections.ICollection</attr>
+        <attr
+        path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='get']"
+        name="managedReturn"
+>Java.Lang.Object</attr>
+        <attr
+        path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='remove']"
+        name="managedReturn"
+>Java.Lang.Object</attr>
+        <attr
+        path="/api/package[@name='com.parse.signpost.basic']/class[@name='HttpURLConnectionRequestAdapter']/method[@name='unwrap']"
+        name="managedReturn"
+>Java.Lang.Object</attr>
+        <remove-node path="/api/package[@name='com.parse']/class[@name='ParseACL.UserResolutionListener']/method[@name='done']" />
+        <remove-node path="/api/package[@name='com.parse']/class[@name='GetCallback']/method[@name='done']" />
+        <remove-node path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='entrySet']" />
+        <remove-node path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='keySet']" />
+        <remove-node path="/api/package[@name='com.parse.signpost.http']/class[@name='HttpParameters']/method[@name='values']" />
+        <remove-node path="/api/package[@name='com.parse']/class[@name='PushService_LifecycleListenerImplementor']" />
+</metadata>

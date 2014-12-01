@@ -1,0 +1,3 @@
+PushTest.MainActivity;pushtest.MainActivity
+Com.Parse.ParseQueryAdapter.IOnQueryLoadListenerImplementor;mono.com.parse.ParseQueryAdapter_OnQueryLoadListenerImplementor
+Com.Parse.Signpost.IOAuthProviderListenerImplementor;mono.com.parse.signpost.OAuthProviderListenerImplementor

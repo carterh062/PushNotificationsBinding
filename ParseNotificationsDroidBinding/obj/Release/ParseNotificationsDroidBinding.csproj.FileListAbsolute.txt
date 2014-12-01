@@ -1,0 +1,7 @@
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Release\ParseNotificationsDroidBinding.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Release\ParseNotificationsDroidBinding.pdb
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Release\Parse.Android.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\bin\Release\Parse.Android.xml
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\obj\Release\ParseNotificationsDroidBinding.csprojResolveAssemblyReference.cache
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\obj\Release\ParseNotificationsDroidBinding.dll
+C:\Users\carter.henderson\Documents\Projects\ParseNotificationsDroidBinding\ParseNotificationsDroidBinding\obj\Release\ParseNotificationsDroidBinding.pdb
